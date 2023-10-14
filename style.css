@@ -1,0 +1,120 @@
+p{
+    display: block; 
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
+}
+.elements{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+body{
+    background-color: grey;
+    color: blue;
+}
+
+.ui{
+    color: rgba(0, 0, 0, 0.688);
+}
+.webp{
+    color: rgba(0, 0, 0, 0.688);
+}
+.appdev{
+    color: rgba(0, 0, 0, 0.688);
+}
+.noob{
+    color: rgba(2, 2, 2, 0.688);
+    margin-left: 50px;
+}
+.order{
+    color: rgba(0, 0, 0, 0.688);
+}
+
+.pro{
+    margin-left: 370px;
+    margin-top: -210px;
+    justify-content: center;
+    align-items: center;
+    width: 5%; 
+    padding: 40px;
+    text-align: center;
+}
+
+.webbb{
+    margin-left: 55px;
+}
+
+.man{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 40px;
+    width: 20%;
+    text-align: center;
+}
+
+.aboutme{
+    display: block;
+    margin-block-start :1rem;
+    margin-block-end: 1rem;
+    justify-content: center;
+    margin-left: 440px;
+    margin-top: -250;
+    font-family: sans-serif;
+    justify-content: flex-start;
+
+}
+
+.hey{
+    color: rgba(44,38,38,0.687);
+    font-family:sans-serif;
+    
+}
+
+.what{
+    font-family: sans-serif;
+    margin-left: 73px;
+    font-size: 12;
+}
+
+.elements{
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    margin-left: 18px;
+}
+.uix{
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 20%;
+    padding: 20px;
+    border: 0.5px solid rgba(31, 26, 26, 0.048);
+}
+
+.web{
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 20%;
+    padding: 20px;
+    border: 0.5px solid rgb(71, 62, 62);
+}
+
+.app{
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 20%;
+    padding: 20px;
+    border: 0.5px solid rgb(51, 50, 50);
+}
+
+.foot{
+    margin-left:65px;
+}
